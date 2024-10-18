@@ -1,1 +1,0 @@
-This is a education math game. 

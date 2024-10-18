@@ -1,0 +1,56 @@
+Ocean Odyssey
+This software contains the files required to run the game called Ocean Odyssey, an educational game where you race through the sea trying to avoid obstacles. When an obstacle is hit, a question is presented.
+
+
+Required Software:
+
+Java version 19 or newer
+JSON (Libraries are often built into Java for basic JSON handling)
+
+User Accounts
+
+This software supports user accounts. You can create accounts and set them up as you play.
+
+Building the Software (Compiling from Source Code)
+
+
+Prerequisites:
+
+Download and install the Java Development Kit (JDK) version 19 or newer from https://jdk.java.net/.
+Obtain a suitable IDE (e.g., IntelliJ IDEA, Eclipse, Visual Studio Code).
+Obtain Source Code:
+
+Download the source code (ensure you indicate how: zip file download, Git repository, etc.)
+
+
+Import the Project:
+
+Open your IDE and import the Ocean Odyssey project.
+Third-Party Libraries (if any):
+
+Identify any libraries the project depends on (e.g., a specific JSON library).
+Provide instructions on how to download and include these libraries in your project using your IDE's dependency management tools (e.g., Maven or Gradle instructions if applicable).
+
+
+Compile:
+
+Use your IDE's build or compile function to create the executable files.
+Running the Compiled Software
+
+Method 1: Using an IDE
+
+Locate the main class of the application.
+Use your IDE's 'Run' function to execute the main class.
+
+Method 2: Using the .exe File:
+
+Locate the provided .exe file in your project directory.
+Double-click the file to launch the game.
+
+Accessing Teacher Mode
+username: instructor password: instructor
+This allows you to access the instructor page
+
+
+Other information:
+username: debugger password: debugger
